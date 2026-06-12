@@ -1,6 +1,6 @@
 # 夏日葬 / Natsusou / ナツソウ - UTAU Voicebank
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/[Xuandesu-1128]/[natsusou-voicebankrelease])](https://github.com/[Xuandesu-1128]/[natsusou-voicebankrelease]/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Xuandesu-1128/natsusou-voicebankrelease)](https://github.com/Xuandesu-1128/natsusou-voicebankrelease/releases)
 
 ---
 
